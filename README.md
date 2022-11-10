@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yasmineoueslati
 - 👀 I’m interested in Data Science and artificial intelligence 
 - 🌱 I’m currently in my last year of Engineering
-- 💞️ I’m looking for an end of study internship (6months)
+- 💞️ I’m looking for an end of study internship 
 - 📫 You can reach me by my email adress : yasmineeeoueslati@gmail.com or by my phone number : +33 07 84 83 38 81
 
 <!---
